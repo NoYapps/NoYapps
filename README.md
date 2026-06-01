@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoYapps
 - 👀 I’m interested in IT and Finance
 - 🎓 I'm currently studying a Bachlor of Computer Science
-- 🧑‍💻 I can code in Python and Java. With beginner knowleadge in C and Assembly
+- 🧑‍💻 I can code in Python, R and Java. With beginner knowleadge in C and Assembly
 - 🌱 I’m currently learning PyTorch 😁
 
 <!---
